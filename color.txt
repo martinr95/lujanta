@@ -1,0 +1,7 @@
+<palette>
+  <color name="Space cadet" hex="22223b" r="34" g="34" b="59" />
+  <color name="Ultra Violet" hex="4a4e69" r="74" g="78" b="105" />
+  <color name="Rose quartz" hex="9a8c98" r="154" g="140" b="152" />
+  <color name="Pale Dogwood" hex="c9ada7" r="201" g="173" b="167" />
+  <color name="Isabelline" hex="f2e9e4" r="242" g="233" b="228" />
+</palette>
